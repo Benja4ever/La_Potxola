@@ -1,0 +1,33 @@
+{
+  "app": { "brand": "La Potxola", "subtitle": "Taverne · Restaurant" },
+  "home": { "choose": "Sprache auswählen" },
+  "nav": {
+    "header": "Start",
+    "mar": "Aus dem Meer",
+    "huerta": "Aus dem Garten",
+    "campo": "Vom Land",
+    "chacinas": "Wurstwaren",
+    "pintxos": "Pintxos & Raciones",
+    "postres": "Desserts"
+  },
+  "sections": {
+    "mar": { "title": "Aus dem Meer" },
+    "huerta": { "title": "Aus dem Garten" },
+    "campo": { "title": "Vom Land" },
+    "chacinas": { "title": "Wurstwaren" },
+    "pintxos": { "title": "Pintxos & Raciones" },
+    "postres": { "title": "Desserts" }
+  },
+
+  "header": {
+    "title": "Speisekarte"
+  },
+
+  "pie": {
+    "lines": [
+      "Probieren Sie unsere bekanntesten Gerichte",
+      "den Cocido und den Marmitako",
+      "mit Sorgfalt und auf Vorbestellung zubereitet"
+    ]
+  }
+}

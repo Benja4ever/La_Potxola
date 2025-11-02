@@ -1,0 +1,35 @@
+{
+  "app": { "brand": "La Potxola", "subtitle": "小酒馆 · 餐厅" },
+  "home": { "choose": "请选择语言" },
+  "nav": {
+    "header": "首页",
+    "mar": "海鲜",
+    "huerta": "时蔬",
+    "campo": "肉类",
+    "chacinas": "风干肉类",
+    "pintxos": "Pintxos 小食",
+    "postres": "甜点"
+  },
+  "sections": {
+    "mar": { "title": "海鲜" },
+    "huerta": { "title": "时蔬" },
+    "campo": { "title": "肉类" },
+    "chacinas": { "title": "风干肉类" },
+    "pintxos": { "title": "Pintxos 小食" },
+    "postres": { "title": "甜点" }
+  },
+
+  "header": {
+    "title": "中文"
+  },
+
+  "pie": {
+    "lines": [
+      "品尝我们最具代表性的菜品",
+      "炖菜（Cocido）与马尔米塔科（Marmitako）",
+      "精心烹制，需预订"
+    ]
+  }
+
+  
+}

@@ -1,0 +1,33 @@
+{
+  "app": { "brand": "La Potxola", "subtitle": "タベルナ · レストラン" },
+  "home": { "choose": "言語を選択してください" },
+  "nav": {
+    "header": "ホーム",
+    "mar": "海の幸",
+    "huerta": "畑の恵み",
+    "campo": "肉料理",
+    "chacinas": "熟成肉・生ハム",
+    "pintxos": "ピンチョス",
+    "postres": "デザート"
+  },
+  "sections": {
+    "mar": { "title": "海の幸" },
+    "huerta": { "title": "畑の恵み" },
+    "campo": { "title": "肉料理" },
+    "chacinas": { "title": "熟成肉・生ハム" },
+    "pintxos": { "title": "ピンチョス" },
+    "postres": { "title": "デザート" }
+  },
+
+  "header": {
+    "title": "メニュー"
+  },
+
+  "pie": {
+    "lines": [
+      "当店を代表する名物料理をお試しください",
+      "コシードとマルミタコ",
+      "心を込めて、ご予約にてご用意します"
+    ]
+  }
+}

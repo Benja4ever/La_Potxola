@@ -1,0 +1,34 @@
+{
+  "app": { "brand": "La Potxola", "subtitle": "Taberna · Restaurante" },
+  "home": { "choose": "Selecciona tu idioma / Choose your language" },
+  "nav": {
+    "header": "Inicio",
+    "mar": "De la mar",
+    "huerta": "De la huerta",
+    "campo": "Del campo",
+    "chacinas": "Las chacinas",
+    "pintxos": "Los pintxos y raciones",
+    "postres": "Postre"
+  },
+  "sections": {
+    "mar": { "title": "De la mar" },
+    "huerta": { "title": "De la huerta" },
+    "campo": { "title": "Del campo" },
+    "chacinas": { "title": "Las chacinas" },
+    "pintxos": { "title": "Los pintxos y raciones" },
+    "postres": { "title": "Postre" }
+  },
+  
+  "header": {
+    "title": "Carta"
+  },
+
+  "pie": {
+    "lines": [
+      "Prueba nuestros platos más emblemáticos",
+      "el cocido y el marmitako",
+      "elaborados con esmero y por encargo"
+    ]
+  }
+
+}

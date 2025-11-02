@@ -1,0 +1,88 @@
+/* ==== IMPORTACIONES ==== */
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;500;700&family=Playfair+Display:wght@500;700;900&display=swap');
+
+@import "tailwindcss";
+
+
+/* ==== RESET BÁSICO ==== */
+*, *::before, *::after { box-sizing: border-box; }
+body { margin: 0; padding: 0; }
+
+/* ==== VARIABLES (PALETA BÁSICA) ==== */
+:root {
+  --brand-ink:   #434b34; /* texto */
+  --brand-paper: #f7f7ee; /* fondo */
+  /* Deja aquí otras si luego añadimos acentos (verde/dorado) */
+}
+
+/* ==== FONDO Y TEXTO GLOBAL ==== */
+@layer base {
+  html, body {
+    background-color: var(--brand-paper);
+    color: var(--brand-ink);
+    font-family: 'Lato', system-ui, -apple-system, Segoe UI, Roboto, 'Helvetica Neue', Arial, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+}
+
+/* ==== FUENTES PERSONALIZADAS ==== */
+.font-h1h2 { font-family: "Playfair Display", serif; }
+.font-h3, .font-boton { font-family: "Lato", sans-serif; }
+.font-parra { font-family: "Lato", sans-serif; }
+
+/* ==== UTILIDADES DE COLOR (sin @apply arbitrario) ==== */
+.bg-primary-1   { background-color: var(--brand-ink); }
+.bg-secondary-1 { background-color: var(--brand-paper); }
+.bg-neutral-1   { background-color: #ffffff; }
+.bg-neutral-2   { background-color: #000000; }
+
+.text-primary-1   { color: var(--brand-ink); }
+.text-secondary-1 { color: var(--brand-paper); }
+.text-neutral-1   { color: #ffffff; }
+.text-neutral-2   { color: #000000; }
+
+/* ==== JERARQUÍA TIPOGRÁFICA ==== */
+.titulo1 {
+  font-family: "Playfair Display", serif;
+  font-weight: 700;
+  font-size: 3.5rem; /* ~40px */
+  line-height: 1.2;
+}
+.titulo2 {
+  font-family: "Playfair Display", serif;
+  font-weight: 600;
+  font-size: 2rem; /* ~32px */
+  line-height: 1.25;
+}
+.titulo3 {
+  font-family: "Playfair Display", serif;
+  font-weight: 500;
+  font-size: 1.25rem; /* ~20px */
+  line-height: 1.3;
+}
+.titulo4 {
+  font-family: "Lato", sans-serif;
+  font-weight: 600;
+  font-size: 1rem; /* ~16px */
+  line-height: 1.4;
+}
+.parrafo {
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  font-size: 1rem; /* ~16px */
+  line-height: 1.7;
+}
+
+/* === ADAPTACIONES RESPONSIVAS === */
+@media (max-width: 768px) {
+  .titulo1 { font-size: 2rem;   } /* ~32px */
+  .titulo2 { font-size: 1.5rem; } /* ~24px */
+  .titulo3 { font-size: 1.125rem; } /* ~18px */
+  .titulo4 { font-size: 0.9375rem; } /* ~15px */
+  .parrafo { font-size: 0.9375rem; } /* ~15px */
+}
+
+/* Anclaje suave y offset para navbar sticky */
+html { scroll-behavior: smooth; }
+.anchor-section { scroll-margin-top: 96px; }

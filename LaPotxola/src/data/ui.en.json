@@ -1,0 +1,32 @@
+{
+  "app": { "brand": "La Potxola", "subtitle": "Tavern · Restaurant" },
+  "home": { "choose": "Select your language" },
+  "nav": {
+    "header": "Home",
+    "mar": "From the Sea",
+    "huerta": "From the Garden",
+    "campo": "From the Field",
+    "chacinas": "Cured Meats",
+    "pintxos": "Pintxos & Raciones",
+    "postres": "Desserts"
+  },
+  "sections": {
+    "mar": { "title": "From the Sea" },
+    "huerta": { "title": "From the Garden" },
+    "campo": { "title": "From the Field" },
+    "chacinas": { "title": "Cured Meats" },
+    "pintxos": { "title": "Pintxos & Raciones" },
+    "postres": { "title": "Desserts" }
+  },
+
+  "header": {
+    "title": "Menu"
+  },
+  "pie": {
+    "lines": [
+      "Try our most emblematic dishes",
+      "the cocido and the marmitako",
+      "prepared with care and on request"
+    ]
+  }
+}

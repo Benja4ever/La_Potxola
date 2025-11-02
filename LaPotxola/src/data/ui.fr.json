@@ -1,0 +1,33 @@
+{
+  "app": { "brand": "La Potxola", "subtitle": "Taverne · Restaurant" },
+  "home": { "choose": "Choisissez votre langue" },
+  "nav": {
+    "header": "Accueil",
+    "mar": "De la mer",
+    "huerta": "Du potager",
+    "campo": "De la campagne",
+    "chacinas": "Charcuteries",
+    "pintxos": "Pintxos & Raciones",
+    "postres": "Desserts"
+  },
+  "sections": {
+    "mar": { "title": "De la mer" },
+    "huerta": { "title": "Du potager" },
+    "campo": { "title": "De la campagne" },
+    "chacinas": { "title": "Charcuteries" },
+    "pintxos": { "title": "Pintxos & Raciones" },
+    "postres": { "title": "Desserts" }
+  },
+
+  "header": {
+    "title": "Carte"
+  },
+
+  "pie": {
+    "lines": [
+      "Découvrez nos plats les plus emblématiques",
+      "le cocido et le marmitako",
+      "préparés avec soin et sur commande"
+    ]
+  }
+}

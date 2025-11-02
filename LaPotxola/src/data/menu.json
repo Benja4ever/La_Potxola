@@ -1,0 +1,615 @@
+{
+  "mar": [
+    {
+      "id": "pulpo-a-la-gallega",
+      "name": "PULPO A LA GALLEGA",
+      "price": 35.0,
+      "desc": { 
+        "es": "El pulpo tradicional de toda la vida con un toque más innovador ya que va sobre patata en puré. Para darle un toque sofisticado y cómodo para degustar. Adererazado con pimentón casero De la Vera de Cáceres. ", 
+        "en": "Tender octopus leg, lightly cooked, served atop a creamy Parmentier (potato purée), finished with a touch of paprika, Añana salt, and extra virgin olive oil.", 
+        "fr": "Patte de poulpe légèrement cuite, servie sur une base de Parmentier (purée de pommes de terre), relevée d'une touche de paprika, de sel d'Añana et d'huile d'olive.", 
+        "de": "Leicht gegarter Oktopusarm, serviert auf einer Basis aus cremigem Parmentier (Kartoffelpüree), verfeinert mit einem Hauch Paprika, Añana-Salz und Olivenöl.", 
+        "zh": "轻微慢煮的章鱼腿，搭配丝滑的巴门蒂尔（土豆泥）底座，点缀上少许红椒粉、阿尼亚纳海盐和优质橄榄油。 (Qīngwēi mànzhǔ de zhāngyú tuǐ, dāpèi sīhuá de bāmén dì ěr (tǔdòu ní) dǐzuò, diǎnzhuì shàng shǎoxǔ hóngjiāo fěn, Āníyǎnà hǎiyán hé yōuzhì gǎnlǎn yóu.)", 
+        "ja": "軽く火入れしたタコの足。パルマンティエ（ポテトピュレ）の上に盛り付け、パプリカ、アニャーナの塩、オリーブオイルのアクセントを添えました。 (Karuku hiire shita tako no ashi. Parumantie (poteto pyurē) no ue ni moritsuke, papurika, Anyāna no shio, orību oiru no akusento o soemashita.)" },
+      "images": [
+        "/assets/dishes/_default/default-1.webp",
+        "/assets/dishes/_default/default-2.webp",
+        "/assets/dishes/_default/default-3.webp"
+      ]
+    },
+    {
+      "id": "bakalao-al-pil",
+      "name": "BAKALAO AL PIL",
+      "price": null,
+      "marketPrice": true,
+      "priceText": "S/M",
+      "desc": { 
+        "es": "Bacalao de primera con su pil pil. El pil pil es una emulsión de aceite de oliva aromatizado con ajo y guindilla y la propia gelatina que suelta el bacalao.", 
+        "en": "An exquisite emulsion of olive oil, infused with garlic and chili (guindilla), which, upon meeting a premium cut of cod, naturally releases its gelatin (collagen). The result is the renowned 'Pil Pil' sauce.", 
+        "fr": "Émulsion d'huile d'olive aromatisée à l'ail et au piment (guindilla), qui, en s'unissant à une coupe de morue de première qualité, fait exalter sa gélatine (collagène). Le résultat est la sauce mythique dite « Pil Pil »", 
+        "de": "Eine Emulsion aus Olivenöl, aromatisiert mit Knoblauch und Chili (Guindilla), die durch die Verbindung mit einem hochwertigen Kabeljau-Schnitt dessen natürliche Gelatine (Kollagen) freisetzen lässt. Das Ergebnis ist das berühmte „Pil Pil“.", 
+        "zh": "将蒜头和辣椒油浸橄榄油乳化，与顶级鳕鱼块融合时，激发出鱼肉的天然胶质（胶原蛋白）。最终凝结成著名的“Pil Pil”酱汁。 ", 
+        "ja": "ニンニクと唐辛子で香りをつけたオリーブオイルの乳化液。これを最高級のタラと合わせることで、魚のゼラチン（コラーゲン）が引き出され、その結果、有名な「ピルピル (Pil Pil)」ソースが誕生します。 " },
+      "images": [
+        "/assets/dishes/Bacalao/bacalao1.webp",
+        "/assets/dishes/Bacalao/bacalao2.webp",
+        "/assets/dishes/Bacalao/bacalao3.webp"
+      ]
+    },
+    {
+      "id": "bonito-encebollado",
+      "name": "BONITO ENCEBOLLADO",
+      "price": 21.0,
+      "desc": { 
+        "es": "Receta Tradicional como de hace en los pueblos de costa de “BIZKAIA”. Con una ligera modificación que le hizo mi abuela para que sea más ligero y digestivo. Infusionamos el pescado en un caldo de verduras y lo servimos con una cebolla confitada a baja temperatura que hace que la experiencia sea inolvidable. Se acompaña de cebolla camaralizada con un toque de guindilla.", 
+        "en": "A traditional recipe, as prepared in the coastal villages of 'BIZKAIA,' yet refined by a light modification from our grandmother to ensure a more digestible experience. We infuse the fish in a vegetable broth and serve it alongside onion slow-cooked at a low temperature, creating an unforgettable moment. Accompanied by caramelized onion with a subtle hint of chili (guindilla).", 
+        "fr": "Une recette traditionnelle, telle qu'elle est préparée dans les villages côtiers de « BIZKAIA », mais revisitée par une légère modification de notre grand-mère pour la rendre plus légère et digestive. Nous infusons le poisson dans un bouillon de légumes et le servons avec un oignon confit à basse température, garantissant une expérience inoubliable. Le plat est accompagné d'oignons caramélisés avec une touche de piment (guindilla).", 
+        "de": "Ein traditionelles Rezept, wie es in den Küstendörfern von „BIZKAIA“ zubereitet wird, mit einer leichten Abwandlung unserer Großmutter für eine leichtere und bekömmlichere Mahlzeit. Wir ziehen den Fisch in einer Gemüsebrühe und servieren ihn mit langsam bei niedriger Temperatur konfierten Zwiebeln, was das Erlebnis unvergesslich macht. Abgerundet wird das Gericht mit karamellisierten Zwiebeln und einem Hauch Chili (Guindilla).", 
+        "zh": "这道来自“比斯开”（BIZKAIA）沿海村庄的传统食谱，融入了祖母的巧思改良，使其更轻盈、更易消化。我们将鱼肉浸入蔬菜高汤中温和慢煮，搭配低温慢炖的糖渍洋葱，带来难以忘怀的体验。佐以焦糖洋葱，并点缀一丝辣椒 (guindilla) 的微辣。 ", 
+        "ja": "「ビスカヤ」（BIZKAIA）の海岸沿いの村で受け継がれる伝統的なレシピに、祖母が軽やかで消化しやすいように加えた微調整を加えました。魚を野菜出汁で優しく火入れ（インフュージョン）し、低温でじっくりコンフィにした玉ねぎを添えることで、忘れられない体験をお届けします。キャラメリゼした玉ねぎには、ピリッとしたギンディージャ（唐辛子）のタッチが効いています。" },
+      "images": [
+        "/assets/dishes/Bonito/bonito1.webp",
+        "/assets/dishes/Bonito/bonito2.webp",
+        "/assets/dishes/Bonito/bonito3.webp"
+      ]
+    },
+    {
+      "id": "txipirones-en-su-tinta",
+      "name": "TXIPIRONES EN SU TINTA",
+      "price": 19.5,
+      "desc": { 
+        "es": "Una receta familiar de mis abuelas de MOTRIKO, elaborados con la misma receta, de los txipirones que comía PICASSO cuando iba a veranear al hotel restaurante que tenía mi bisabuela en MOTRIKO-GUIPUZCOA. La base del guiso esta hecha de una mixtura de verduras y un toque de tinta del chipirón. Se acompaña con arroz blanco.", 
+        "en": "A cherished family recipe from our grandmothers in MOTRIKO. These are the very same baby squids (chipirones) that PICASSO enjoyed when summering at the hotel-restaurant owned by our great-grandmother in MOTRIKO-GUIPUZCOA. The stew’s base is a medley of fresh vegetables and a touch of squid ink. Served with white rice.", 
+        "fr": "Une recette de famille de nos grands-mères de MOTRIKO. Il s'agit des mêmes chipirones (petits calamars) que PICASSO dégustait lorsqu'il passait l'été à l'hôtel-restaurant de notre arrière-grand-mère à MOTRIKO-GUIPUZCOA. La base du ragoût est composée d'un mélange de légumes et d'une touche d'encre de calamar. Accompagné de riz blanc.", 
+        "de": "Ein traditionelles Familienrezept unserer Großmütter aus MOTRIKO. Dies sind genau die kleinen Tintenfische (Chipirones), die PICASSO genoss, als er im Sommer das Hotel-Restaurant unserer Urgroßmutter in MOTRIKO-GUIPUZCOA besuchte. Die Basis des Eintopfs besteht aus einer Mischung von Gemüse mit einem Hauch von Tintenfischtinte. Serviert mit weißem Reis.", 
+        "zh": "这道来自MOTRIKO的家族秘方，由祖母们代代相传。它正是毕加索在MOTRIKO-GUIPUZCOA曾祖母的餐厅度假时，享用过的墨鱼仔 (chipirones) 的相同食谱。炖菜的基底由什锦蔬菜和少许墨鱼汁制成。搭配白米饭。", 
+        "ja": "モトリコ (MOTRIKO) に住む祖母たちの、大切な家族のレシピです。これは、ピカソがモトリコ・ギプスコアの曾祖母のホテル・レストランで夏を過ごした際に食した、イカ（チピロネス）と全く同じものです。この煮込み料理のベースは、様々な野菜とイカ墨のタッチでできています。白米を添えて提供いたします" },
+      "images": [
+        "/assets/dishes/_default/default-1.webp",
+        "/assets/dishes/_default/default-2.webp",
+        "/assets/dishes/_default/default-3.webp"
+      ]
+    },
+    {
+      "id": "kokotxas-de-bacalao-al-pil-pil",
+      "name": "KOKOTXAS DE BACALAO AL PIL PIL",
+      "price": 29.0,
+      "desc": { 
+        "es": "Kokotxas de Bacalao de primera con su pil pil. El pil pil es una emulsión de aceite de oliva aromatizado con ajo y guindilla y la propia gelatina que suelta el bacalao.", 
+        "en": "An exquisite emulsion of olive oil, infused with garlic and chili (guindilla), which, upon meeting a premium cut of cod, naturally releases its gelatin (collagen). The result is the renowned 'Pil Pil' sauce.", 
+        "fr": "Émulsion d'huile d'olive aromatisée à l'ail et au piment (guindilla), qui, en s'unissant à une coupe de morue de première qualité, fait exalter sa gélatine (collagène). Le résultat est la sauce mythique dite « Pil Pil »", 
+        "de": "Eine Emulsion aus Olivenöl, aromatisiert mit Knoblauch und Chili (Guindilla), die durch die Verbindung mit einem hochwertigen Kabeljau-Schnitt dessen natürliche Gelatine (Kollagen) freisetzen lässt. Das Ergebnis ist das berühmte „Pil Pil“.", 
+        "zh": "将蒜头和辣椒油浸橄榄油乳化，与顶级鳕鱼块融合时，激发出鱼肉的天然胶质（胶原蛋白）。最终凝结成著名的“Pil Pil”酱汁。 ", 
+        "ja": "ニンニクと唐辛子で香りをつけたオリーブオイルの乳化液。これを最高級のタラと合わせることで、魚のゼラチン（コラーゲン）が引き出され、その結果、有名な「ピルピル (Pil Pil)」ソースが誕生します。 " },
+      "images": [
+        "/assets/dishes/Kokotxas/kokotxas1.webp",
+        "/assets/dishes/Kokotxas/kokotxas1.webp",
+        "/assets/dishes/Kokotxas/kokotxas1.webp"
+      ]
+    },
+    {
+      "id": "nota-pescados-dia",
+      "type": "note",
+      "name": "«CONSULTA NUESTROS PESCADOS DEL DÍA»"
+    }
+  ],
+
+  "huerta": [
+    {
+      "id": "tomate-en-flor-alinado",
+      "name": "TOMATE EN FLOR ALIÑADO",
+      "price": 14.5,
+      "desc": { 
+        "es": "Hacemos un proceso de corte al tomate para potenciar su sabor y que el tomate sepa a tomate. Cogemos el tomate y le quitamos el culito y el corazón, lo dejamos respirar un minuto, procedemos después a cortarlos en FLOR. El corte en flor con respecto al corte en gajos, potencia el sabor un 100%, lo presentamos en el plato, le ponemos un poco de sal y vinagre y lo dejamos que llore durante 5 minutos para que suelte sus jugos y lo terminamos en mesa con un buen aceite de oliva, nosotros trabajamos con DOMINUS que actualmente es el aceite más premiado de su denominación de origen MANCHARREAL JAÉN", 
+        "en": "We employ a meticulous preparation process to fully enhance the tomato’s flavour, ensuring it tastes exactly as it should—like a true tomato. We remove the core and base, allow it to 'breathe' for a minute, then proceed to slice it into a FLOWER pattern. This specialised 'flower cut', compared to traditional wedges, intensifies the flavour by 100%. Plated with salt and a splash of vinegar, we let it rest for five minutes to release its juices, and finish it tableside with a fine olive oil. We use DOMINUS, currently the most awarded oil from the MANCHARREAL Designation of Origin", 
+        "fr": "Nous appliquons un processus de coupe spécifique à la tomate pour en exalter la saveur, afin qu'elle ait le goût authentique de la tomate. Nous retirons le cœur et la base, la laissons respirer pendant une minute, puis la coupons en FLEUR. Cette découpe en fleur, par rapport à une coupe en quartiers, augmente l'intensité de la saveur de 100 %. Après l'avoir assaisonnée de sel et de vinaigre, nous la laissons « pleurer » pendant cinq minutes pour qu'elle libère ses sucs, et nous la finalisons à table avec une excellente huile d'olive. Nous travaillons avec DOMINUS, actuellement l'huile la plus primée de son appellation d'origine MANCHARREAL.", 
+        "de": "Wir wenden einen speziellen Schneideprozess an, um den Geschmack der Tomate zu intensivieren und sicherzustellen, dass sie nach Tomate schmeckt. Wir entfernen den Stielansatz und das Kerngehäuse, lassen sie eine Minute „atmen“ und schneiden sie dann in BLUMEN-Form. Dieser Blumenschnitt verstärkt den Geschmack im Vergleich zum Scheibenschnitt um 100 %. Angerichtet mit etwas Salz und Essig, lassen wir sie fünf Minuten „weinen“, damit sie ihre Säfte freisetzt, und vollenden das Gericht am Tisch mit einem hochwertigen Olivenöl. Wir verwenden DOMINUS, das derzeit meistprämierte Öl seiner Herkunftsbezeichnung MANCHARREAL.", 
+        "zh": "我们对番茄进行特殊的切割处理，以最大限度地激发其风味，让番茄尝起来就是番茄本来的味道。我们去除番茄的根部和果心，静置一分钟，然后将其切成 花朵 状。与传统切块相比，这种花刀切割法能将风味提升100%。上盘后撒上少许盐和醋，静置五分钟使其“流泪”释放汁液，最后在餐桌旁淋上顶级橄榄油。我们选用 DOMINUS，这是MANCHARREAL原产地目前获奖最多的橄榄油。", 
+        "ja": "私たちは、トマト本来の風味を最大限に引き出すため、特別なカットプロセスを適用し、トマトが真のトマトの味であることを保証します。ヘタと芯を取り除き、1分間「呼吸」させた後、 花 の形にカットします。この花切りは、くし形切りと比較して風味を100%高めます。盛り付け後、塩と少量の酢を振りかけ、5分間「泣かせて」果汁を出させ、最後にテーブルでおいしいオリーブオイルで仕上げます。使用するのは、MANCHARREAL原産地で現在最も受賞歴のある DOMINUS オイルです。" },
+      "images": [
+        "/assets/dishes/_default/default-1.webp",
+        "/assets/dishes/_default/default-2.webp",
+        "/assets/dishes/_default/default-3.webp"
+      ]
+    },
+    {
+      "id": "alcachofa-o-puerro-confitado-en-aove",
+      "name": "ALCATXOFA o PUERRO CONFITADO EN AOVE",
+      "price": 5.9,
+      "desc": { 
+        "es": "Confitamos las alcachofas a baja temperatura en AOVE (aceite de oliva virgen extra). Son tan buenas que no les hacemos nada para enmascarar su sabor y las servimos en flor y les ponemos unas escamas de sal de AÑANA por encima dándoles un toque de gratín.", 
+        "en": "We slow-confited the artichokes at a low temperature in EVOO (Extra Virgin Olive Oil). They are so naturally exquisite that they require nothing to mask their flavour. We serve them presented in a 'flower' arrangement, finished with flakes of AÑANA salt.", 
+        "fr": "Nous confisons les artichauts à basse température dans de l'Huile d'Olive Vierge Extra (HOVE). Ils sont si naturellement savoureux qu'ils n'ont besoin de rien pour masquer leur goût. Nous les servons disposés « en fleur », et les finissons avec des flocons de sel d'AÑANA.", 
+        "de": "Wir konfieren die Artischocken bei niedriger Temperatur in nativem Olivenöl extra (AOVE). Sie sind von so hervorragender Qualität, dass sie nichts benötigen, um ihren Geschmack zu überdecken. Wir servieren sie in „Blumen“-Form, bestreut mit AÑANA Salzflocken.", 
+        "zh": "我们将朝鲜蓟（洋蓟）以特级初榨橄榄油（AOVE）低温油封慢煮。它们天然的美味已臻完美，无需任何调味来掩盖其风味。我们以“花朵”造型呈现，并在上方撒上阿尼亚纳盐片收尾。", 
+        "ja": "アーティチョーク（朝鮮薊）をエキストラバージンオリーブオイル（AOVE）で低温コンフィにします。そのあまりの美味しさゆえに、風味を覆い隠すものは何も必要ありません。「花」のように盛り付け、仕上げにアニャーナの塩のフレークを振りかけます。" },
+      "images": [
+        "/assets/dishes/Alcachofa/alcachofa1.webp",
+        "/assets/dishes/Alcachofa/alcachofa3.webp",
+        "/assets/dishes/Alcachofa/puerro4.webp"
+      ]
+    },
+    {
+      "id": "ensaladilla-rusa-con-ventresca",
+      "name": "ENSALADILLA RUSA CON VENTRESCA",
+      "price": 12.5,
+      "desc": { 
+        "es": "", 
+        "en": "", 
+        "fr": "", 
+        "de": "", 
+        "zh": "", 
+        "ja": "" },
+      "images": [
+        "/assets/dishes/_default/default-1.webp",
+        "/assets/dishes/_default/default-2.webp",
+        "/assets/dishes/_default/default-3.webp"
+      ]
+    },
+    {
+      "id": "ensalada-potxola",
+      "name": "ENSALADA POTXOLA",
+      "price": 14.5,
+      "desc": { 
+        "es": "Una combinación de ingredientes que nos aportan un plato realmente llamativo bello y con una conjunción de sabores muy SORPRENDENTE. Se compone de REMOLACHA NARANJA Y QUESO DE VALDEÓN. La remolacha nos aporta textura y naranja frescura y el queso engloba todos los sabores en boca. Nunca deja indiferente. Se aliña con un toque de vinagre, sal de añana y aceite de oliva.", 
+        "en": "A combination of ingredients yielding a truly striking and beautiful dish with a SURPRISING conjunction of flavours. It features BEETROOT, ORANGE, and VALDEÓN BLUE CHEESE. The beetroot provides texture, the orange offers freshness, and the Valdeón cheese harmonises all the flavours on the palate. A daring, yet guaranteed, success. Dressed with a touch of vinegar, Añana salt, and olive oil.", 
+        "fr": "Une combinaison d'ingrédients qui donne un plat véritablement frappant, beau et doté d'une conjonction de saveurs très SURPRENANTE. Il se compose de BETTERAVE, d'ORANGE et de FROMAGE DE VALDEÓN. La betterave apporte de la texture, l'orange de la fraîcheur, et le fromage englobe toutes les saveurs en bouche. Un pari risqué, mais sûr. Le plat est assaisonné d'une touche de vinaigre, de sel d'Añana et d'huile d'olive.", 
+        "de": "Eine Kombination von Zutaten, die ein wirklich auffälliges, schönes Gericht mit einem sehr ÜBERRASCHENDEN Geschmackserlebnis ergibt. Es besteht aus ROTER BETE, ORANGE und VALDEÓN-KÄSE. Die Rote Bete sorgt für Textur, die Orange für Frische, und der Käse vereint alle Aromen im Mund. Eine gewagte, aber sichere Wette. Abgeschmeckt mit einem Hauch Essig, Añana-Salz und Olivenöl.", 
+        "zh": "这是一道由多种食材组合而成的菜肴，外观惊艳，口味的结合更是令人惊奇**。主要成分是：甜菜根、橙子和瓦尔德翁（VALDEÓN）蓝纹奶酪。甜菜根提供口感，橙子带来清新，而奶酪则将所有风味完美地融合在口腔中。这是一次大胆而可靠的尝试。佐以少许醋、阿尼亚纳盐和橄榄油调味。**", 
+        "ja": "複数の食材の組み合わせが、非常に人目を引き、美しく、そして非常に驚きに満ちた風味の組み合わせをもたらす一皿です。構成要素は、ビーツ、オレンジ、そしてバルデオン（VALDEÓN）チーズ。ビーツが食感を、オレンジが新鮮さを、そしてチーズが口の中のすべての風味をまとめ上げます。これは大胆でありながら確実な賭けです。仕上げに少量の酢、アニャーナの塩、オリーブオイルをかけています。" },
+      "images": [
+        "/assets/dishes/Potxola/potxola1.webp",
+        "/assets/dishes/Potxola/potxola2.webp",
+        "/assets/dishes/Potxola/potxola1.webp"
+      ]
+    },
+    {
+      "id": "esparragos-de-navarra",
+      "name": "ESPARRAGOS DE NAVARRA",
+      "price": 12.5,
+      "desc": { 
+        "es": "", 
+        "en": "", 
+        "fr": "", 
+        "de": "", 
+        "zh": "", 
+        "ja": "" },
+      "images": [
+        "/assets/dishes/_default/default-1.webp",
+        "/assets/dishes/_default/default-2.webp",
+        "/assets/dishes/_default/default-3.webp"
+      ]
+    }
+  ],
+
+  "campo": [
+    {
+      "id": "txuletas-de-conejo-pipas-de-campo",
+      "name": "TXULETAS DE CONEJO «PIPAS DE CAMPO»",
+      "price": 16.5,
+      "desc": { 
+        "es": "", 
+        "en": "", 
+        "fr": "", 
+        "de": "", 
+        "zh": "", 
+        "ja": "" },
+      "images": [
+        "/assets/dishes/_default/default-1.webp",
+        "/assets/dishes/_default/default-2.webp",
+        "/assets/dishes/_default/default-3.webp"
+      ]
+    },
+    {
+      "id": "callos-con-morro-y-pata",
+      "name": "CALLOS CON MORRO Y PATA",
+      "price": 19.5,
+      "desc": { 
+        "es": "Receta tradicional y familiar, elaborada con callos de primera calidad, su morro y su pata, para darle un toque gelatinoso y una suave salsa Bizkaina. Sin olvidar la guindilla que nos aporta alegría.", 
+        "en": "A traditional family recipe featuring premium tripe (callos), enriched with snout and trotters for a desirable gelatinous texture, and bathed in a mild Bizkaina sauce. We never forget the chili (guindilla) that adds a vibrant, joyful kick.", 
+        "fr": "Recette traditionnelle et familiale, élaborée avec des tripes (callos) de première qualité, ainsi que du museau et du pied (de veau/porc) pour une texture gélatineuse recherchée, le tout nappé d'une douce sauce Bizkaina. Sans oublier le piment (guindilla) qui apporte une touche de vivacité.", 
+        "de": "Ein traditionelles Familienrezept, zubereitet mit Kutteln (Callos) erster Güte, angereichert mit Maul und Fuß (von Kalb/Schwein), um eine begehrte gelatinöse Textur zu erzielen, und in einer milden Bizkaina-Sauce serviert. Abgerundet mit der Chili (Guindilla), die für eine beschwingte Note sorgt.", 
+        "zh": "这是一款传统的家族食谱，采用顶级牛肚（callos），配以牛/猪鼻和蹄，以获得理想的胶质口感，并搭配柔和的比斯开（Bizkaina）酱汁。当然，少不了辣椒 (guindilla) 带来的愉悦与活力。", 
+        "ja": "伝統的な家族のレシピ。上質なトリッパ（牛モツ）に鼻と足を加え、とろけるようなゼラチン質の食感を引き出し、まろやかなビスカイナ（Bizkaina）ソースで仕上げました。料理に活気を与えるギンディージャ（唐辛子）の存在も忘れてはいません。" },
+      "images": [
+        "/assets/dishes/_default/default-1.webp",
+        "/assets/dishes/_default/default-2.webp",
+        "/assets/dishes/_default/default-3.webp"
+      ]
+    },
+    {
+      "id": "albondigas-en-salsa",
+      "name": "ALBONDIGAS EN SALSA",
+      "price": 18.5,
+      "desc": { 
+        "es": "las auténticas albóndigas de abuela, 100% carne de primera calidad y con un sabor que nos hace viajar a nuestra niñez. Su salsa no es la clásica salsa de tomate, sino una mixtura de verduras. Se acompaña con patatas chips caseras… maravillosas!!!", 
+        "en": "Our authentic 'Grandmother's Meatballs', made with 100% premium quality meat and a flavour that transports us straight back to childhood. The sauce is not the classic tomato-based kind, but rather a rich medley of vegetables. Served with our wonderful, homemade potato chips!", 
+        "fr": "Les authentiques boulettes de viande de grand-mère, préparées avec 100 % de viande de première qualité, dont la saveur nous fait voyager vers notre enfance. Leur sauce n'est pas la sauce tomate classique, mais un riche mélange de légumes. Elles sont accompagnées de chips maison… merveilleuses !", 
+        "de": "Die authentischen „Großmutter-Fleischbällchen“, zubereitet mit 100 % erstklassigem Fleisch und einem Geschmack, der uns direkt in unsere Kindheit zurückversetzt. Die Sauce ist keine klassische Tomatensauce, sondern eine reichhaltige Gemüsemischung. Dazu gibt es hausgemachte Kartoffelchips... wunderbar!", 
+        "zh": "正宗的“祖母肉丸”，采用100%优质肉类制作，其味道能带我们重温童年。其酱汁并非经典番茄酱，而是浓郁的什锦蔬菜酱。搭配我们美妙的自制薯片！", 
+        "ja": "本物の「おばあちゃんのミートボール」。100％上質な肉を使用し、一口食べれば幼少期へと誘われる懐かしい味わいです。ソースは定番のトマトソースではなく、野菜をブレンドした特製ミックスソース。付け合わせは、素晴らしい自家製ポテトチップスです！" },
+      "images": [
+        "/assets/dishes/Albondigas/albondigas1.webp",
+        "/assets/dishes/Albondigas/albondigas2.webp",
+        "/assets/dishes/Albondigas/albondigas3.webp"
+      ]
+    },
+    {
+      "id": "tataki-solomillo-iberico",
+      "name": "TATAKI DE SOLOMILLO IBÉRICO",
+      "price": 22.5,
+      "desc": { 
+        "es": "Solomillo ibérico de primera calidad que maceramos en una salsa durante 48 hrs. Lo marcamos en plancha y se sirve sobre uns base de parmentier (puré de patata elaborado con un toque de mantequilla y pimienta). Y acompañado de la salsa secreta de casa.", 
+        "en": "Premium Iberian sirloin, meticulously marinated in a special sauce for 48 hours. Seared on the grill and served atop a creamy Parmentier (potato purée made with a touch of butter and pepper). Finished with our secret house sauce.", 
+        "fr": "Filet mignon ibérique de première qualité, que nous faisons mariner dans une sauce spéciale pendant 48 heures. Il est marqué à la plancha et servi sur une base de Parmentier (purée de pommes de terre élaborée avec une touche de beurre et de poivre). Accompagné de la sauce secrète de la maison.", 
+        "de": "Erstklassiges Iberico-Filet (Solomillo Ibérico), das wir 48 Stunden lang in einer Sauce marinieren. Wir braten es kurz auf der Platte an und servieren es auf einer Basis von Parmentier (Kartoffelpüree mit einem Hauch Butter und Pfeffer). Dazu reichen wir die geheime Haussauce.", 
+        "zh": "将顶级伊比利亚里脊肉（Solomillo Ibérico）置于特制酱汁中腌制48小时。在铁板上煎至完美，配以巴门蒂尔（Parmentier，加入黄油和胡椒的土豆泥）底座。搭配我们的独家秘制酱汁。", 
+        "ja": "最高級のイベリコ豚ヒレ肉を、特製ソースに48時間じっくりとマリネしました。鉄板で焼き目をつけ、パルマンティエ（バターと胡椒を加えたポテトピュレ）の上に盛り付けます。仕上げに、当店の秘密のソースを添えて。" },
+      "images": [
+        "/assets/dishes/Tataki/tataki1.webp",
+        "/assets/dishes/Tataki/tataki2.webp",
+        "/assets/dishes/Tataki/tataki3.webp"
+      ]
+    },
+    {
+      "id": "rabo-de-toro",
+      "name": "RABO DE TORO",
+      "price": 23.0,
+      "desc": { 
+        "es": "Nuestro plato estrella. Cortes de rabo de toro cocinado a baja cocción con mucho cuidado y amor. En su receta lleva vino, coñac y mucha verdura, que aporta sabor y ligereza en sabor. Un plato que puedes servir de noche sin que resulte pesado en su digestión. ", 
+        "en": "Our Signature Dish. Premium cuts of oxtail, slow-cooked with meticulous care and love. The recipe is enriched with wine, cognac, and numerous vegetables, which impart both deep flavour and surprising lightness. A dish you can enjoy at night without feeling heavy.", 
+        "fr": "Notre Plat Signature. Morceaux de queue de taureau (Rabo de Toro) cuits à basse température avec soin et amour. La recette contient du vin, du cognac et une abondance de légumes, ce qui apporte à la fois saveur intense et légèreté. Un plat que vous pouvez déguster le soir sans qu'il ne soit lourd à digérer.", 
+        "de": "Unser Sternegericht. Hochwertige Stücke vom Ochsenschwanz (Rabo de Toro), die mit viel Sorgfalt und Liebe bei niedriger Temperatur gegart werden. Das Rezept enthält Wein, Cognac und viel Gemüse, was für intensiven Geschmack und eine überraschende Leichtigkeit sorgt. Ein Gericht, das Sie auch abends genießen können, ohne dass es schwer im Magen liegt.", 
+        "zh": "我们的招牌菜。顶级牛尾以低温慢炖的方式，倾注了我们所有的细心与爱。食谱中加入了葡萄酒、干邑和大量蔬菜，既增添了风味，又带来了意想不到的清爽口感。这是一道可以在夜间享用而不会感到油腻厚重的菜肴。", 
+        "ja": "当店のスター料理。厳選された牛の尾肉を、細心の注意と愛情を込めて低温で煮込みました。レシピにはワイン、コニャック、そしてたっぷりの野菜が使われており、深い風味と同時に驚くほどの軽さを生み出しています。夜に召し上がっても胃にもたれない一品です" },
+      "images": [
+        "/assets/dishes/Rabo/rabo1.webp",
+        "/assets/dishes/Rabo/rabo2.webp",
+        "/assets/dishes/Rabo/rabo3.webp"
+      ]
+    },
+    {
+      "id": "picantones-de-la-amatxu",
+      "name": "LOS PICANTONES DE LA AMATXU",
+      "price": 18.5,
+      "desc": { 
+        "es": "Coquelette (pollitos de corral) elaborados como AMATXU Cocinaba el faisán. Una delicia al paladar que no te dejará indiferente. Se acompaña con patatas chips caseras.", 
+        "en": "Free-range Coquelette (baby chicken), prepared just as Amatxu (Mother) used to cook pheasant. A culinary delight that will not leave you indifferent. Served with homemade potato chips.", 
+        "fr": "Coquelet de ferme (Coquelette), préparé comme Amatxu (Maman, en basque) cuisinait le faisan. Un délice pour le palais qui ne vous laissera pas indifférent. Accompagné de chips de pommes de terre maison.", 
+        "de": "Küken (Coquelette), zubereitet nach der Art, wie Amatxu (Mutter, auf Baskisch) den Fasan zubereitete. Ein Gaumenschmaus, der Sie nicht gleichgültig lassen wird. Dazu reichen wir hausgemachte Kartoffelchips.", 
+        "zh": "按照 Amatxu（巴斯克语中的“母亲”）烹饪野鸡的方式制作的散养童子鸡 (Coquelette)。这种美味不会让您的味蕾感到平淡。搭配自制薯片。", 
+        "ja": "Amatxu（バスク語で「お母さん」）がキジを調理した方法で仕上げた若鶏（コクレ）。決して無関心ではいられない、まさに舌を喜ばせる逸品です。自家製ポテトチップスを添えて。" },
+      "images": [
+        "/assets/dishes/_default/default-1.webp",
+        "/assets/dishes/_default/default-2.webp",
+        "/assets/dishes/_default/default-3.webp"
+      ]
+    },
+    {
+      "id": "txuleta",
+      "name": "TXULETA",
+      "price": null,
+      "marketPrice": true,
+      "priceText": "S/M",
+      "desc": { 
+        "es": "Compramos el chuletero completo, a un proveedor de Galicia que nos garantiza que es producto totalmente NACIONAL y que tiene como mínimo una curación de 60 días antes de ser servido. Os presentamos la carne acompañada del código QR para que podáis comprobar la trazabilidad de la carne. Es una carne absolutamente tierna, maravillosa y con un sabor inconfundible. Se sirve con patatas chips caseras.", 
+        "en": "We source the entire rib roast from a Galician supplier, guaranteeing a 100% NATIONAL product with a minimum aging period of 60 days before serving. The meat is presented with a QR code, allowing you to check its complete traceability. It is an absolutely tender, wonderful cut with an unmistakable flavour. Served with homemade potato chips.", 
+        "fr": "Nous achetons le rôti de côtes entier chez un fournisseur galicien qui nous garantit un produit entièrement NATIONAL, avec une maturation minimale de 60 jours avant d'être servi. Nous vous présentons la viande accompagnée d'un code QR pour que vous puissiez vérifier sa traçabilité complète. C'est une viande absolument tendre, merveilleuse, et au goût inimitable. Servie avec des chips de pommes de terre maison.", 
+        "de": "Wir beziehen das komplette Kotelettstück (Chuletero) von einem galicischen Lieferanten, der ein durch und durch NATIONALES Produkt mit einer Mindestreifung von 60 Tagen vor dem Servieren garantiert. Das Fleisch wird mit einem QR-Code präsentiert, damit Sie die Rückverfolgbarkeit überprüfen können. Es ist absolut zart, wunderbar und besitzt einen unverwechselbaren Geschmack. Serviert mit hausgemachten Kartoffelchips.", 
+        "zh": "我们从加利西亚的供应商处采购整块带骨肋排，保证产品完全源自本国**，并在上菜前至少经过60天的熟成期。我们提供肉品的二维码，供您查验完整的可追溯性。这是一款绝对柔嫩、美妙且风味独特的肉品。搭配自制薯片。**", 
+        "ja": "ガリシア地方の業者から骨付きリブロースを丸ごと仕入れています。完全に国産であること、そして提供前に最低60日間熟成させていることを保証します。お肉にはQRコードを添えてご提供し、完全なトレーサビリティ（追跡可能性）をご確認いただけます。この肉は、この上なく柔らかく、素晴らしく、間違いのない風味を持っています。自家製ポテトチップスを添えて。" },
+      "images": [
+        "/assets/dishes/Txuleta/txuleton1.webp",
+        "/assets/dishes/Txuleta/txuleton2.webp",
+        "/assets/dishes/Txuleta/txuleton3.webp"
+      ]
+    }
+  ],
+
+  "chacinas": [
+    {
+      "id": "cecina-de-leon-premio-medalla-oro",
+      "name": "CECINA DE LEÓN «PREMIO MEDALLA DE ORO»",
+      "price": 32.5,
+      "desc": { 
+        "es": "Trabajamos con la cecina que se ha llevado MEDALLA DE ORO al producto tierra de sabor. Se podría decir que es la mejor cecina que hay en ESPAÑA, y a modo anecdótico, es la misma cecina que se sirve en ARZAK, pero aquí a precios populares...", 
+        "en": "We proudly serve the Cecina (cured beef) that won the GOLD MEDAL for the 'Tierra de Sabor' quality award. It is arguably the finest Cecina available in Spain, and, anecdotally, it's the very same served at the legendary ARZAK restaurant—but offered here at popular prices.", 
+        "fr": "Nous travaillons avec la Cecina (viande de bœuf séchée) qui a remporté la MÉDAILLE D'OR au prix de qualité « Tierra de Sabor ». On peut affirmer qu'il s'agit de la meilleure Cecina d'Espagne et, pour l'anecdote, c'est la même qui est servie chez ARZAK, mais ici à prix populaires...", 
+        "de": "Wir verwenden die Cecina (gepökeltes Rindfleisch), die mit der GOLDMEDAILLE der Qualitätsmarke „Tierra de Sabor“ ausgezeichnet wurde. Man könnte sagen, es ist die beste Cecina in ganz Spanien, und, anekdotisch erwähnt, ist es dieselbe, die auch im ARZAK serviert wird – aber bei uns zu volkstümlichen Preisen.", 
+        "zh": "我们采用荣获“Tierra de Sabor”产品金奖的风干牛肉（Cecina）。可以说，这是西班牙最好的风干牛肉，此外，值得一提的是，它与ARZAK餐厅所使用的风干牛肉是同一款，但在我们这里，您能以大众价格品尝到它...", 
+        "ja": "品質賞「ティエラ・デ・サボール」で金メダルを受賞したセシーナ（牛肉の燻製）を使用しています。これはスペインで最も優れたセシーナであると言え、逸話として、あのARZAKで提供されているものと全く同じですが、ここでは庶民的な価格でご提供しています..." },
+      "images": [
+        "/assets/dishes/Cecina/cecina1.webp",
+        "/assets/dishes/Cecina/cecina2.webp",
+        "/assets/dishes/Cecina/cecina3.webp"
+      ]
+    },
+    {
+      "id": "tabla-de-quesos-seleccion-semana",
+      "name": "TABLA DE QUESOS «SELECCIÓN DE LA SEMANA»",
+      "price": 18.5,
+      "desc": { 
+        "es": "", 
+        "en": "", 
+        "fr": "", 
+        "de": "", 
+        "zh": "", 
+        "ja": "" },
+      "images": [
+        "/assets/dishes/_default/default-1.webp",
+        "/assets/dishes/_default/default-2.webp",
+        "/assets/dishes/_default/default-3.webp"
+      ]
+    },
+    {
+      "id": "jamon-iberico-100-de-la-dehesa",
+      "name": "JAMÓN IBÉRICO 100%... DE LA DEHESA",
+      "price": 32.0,
+      "desc": { 
+        "es": "Trabajamos con paleta ibérica 100% IBERICA, no 50/50 ni 75/25... 100% ibérica de SEÑORÍO DE MONTANERA uno de los mejores productores de jamón de Extremadura que como se sabe, son unos jamones únicos en calidad, textura y sabor.", 
+        "en": "We serve 100% IBERIAN Shoulder Ham, NOT 50/50 or 75/25... it is 100% Iberian from SEÑORÍO DE MONTANERA, one of the finest producers in Extremadura. Their hams are renowned for their unique quality, texture, and incomparable flavour.", 
+        "fr": "Nous travaillons avec de la palette ibérique 100 % IBÉRIQUE, PAS du 50/50 ni du 75/25... 100 % ibérique de SEÑORÍO DE MONTANERA, l'un des meilleurs producteurs de jambon d'Estrémadure. Leurs jambons sont reconnus pour leur qualité, leur texture et leur saveur uniques.", 
+        "de": "Wir servieren 100% IBERISCHEN Schinkenvorderschinken, KEIN 50/50 oder 75/25... 100% Iberico von SEÑORÍO DE MONTANERA, einem der besten Schinkenproduzenten der Extremadura. Wie bekannt, sind diese Schinken einzigartig in Qualität, Textur und Geschmack.", 
+        "zh": "我们选用100%纯种伊比利亚火腿肩肉，非50/50或75/25的杂交品种... 100%纯种伊比利亚来自SEÑORÍO DE MONTANERA，这是埃斯特雷马杜拉地区最好的火腿生产商之一。众所周知，他们的火腿在品质、口感和风味上都是独一无二的。", 
+        "ja": "50/50でも75/25でもなく、100％純粋なイベリコ豚のショルダーハムを使用しています。エストレマドゥーラ地方で最高の生ハム生産者の一つであるSEÑORÍO DE MONTANERAの100%イベリコ豚です。ご存知の通り、彼らの生ハムは品質、食感、風味において他に類を見ません。" },
+      "images": [
+        "/assets/dishes/Jamon/jamon1.webp",
+        "/assets/dishes/Jamon/jamon2.webp",
+        "/assets/dishes/Jamon/jamon3.webp"
+      ]
+    },
+    {
+      "id": "tabla-mixta-de-ibericos",
+      "name": "TABLA MIXTA DE IBÉRICOS",
+      "price": null,
+      "marketPrice": true,
+      "priceText": "S/M",
+      "desc": { 
+        "es": "", 
+        "en": "", 
+        "fr": "", 
+        "de": "", 
+        "zh": "", 
+        "ja": "" },
+      "images": [
+        "/assets/dishes/_default/default-1.webp",
+        "/assets/dishes/_default/default-2.webp",
+        "/assets/dishes/_default/default-3.webp"
+      ]
+    }
+  ],
+
+  "pintxos": [
+    {
+      "id": "huevo-trufa-o-txistorra",
+      "name": "PINTXO HUEVO DE TRUFA O TXISTORRA",
+      "price": 4.25,
+      "desc": {
+        "es": "Es un creppe de patata deshidratada que en su interior lleva huevo líquido (la yema entera) con un toque de trufa o chistorra. Es un bocadillo individual que no se puede compartir. La experiencia es comerlo de un solo bocado. Una experiencia mágica y sorprendente. Una sensación orgásmica.",
+        "en": "A dehydrated potato shell (crêpe) embracing a liquid whole-egg yolk, with a surprising hint of truffle or chistorra sausage. This is a highly individual, non-shareable delicacy. The experience is designed to be consumed in a single bite: a magical, surprising journey leading to an truly orgasmic sensation.",
+        "fr": "Une coque croustillante de pomme de terre déshydratée, fourrée d'un cœur de jaune d'œuf liquide entier, relevé d'une touche de truffe ou de chistorra. C'est une bouchée strictement individuelle et non-partageable. L'expérience culinaire exige de le déguster en une seule fois : une sensation magique, surprenante, et carrément orgasmique.",
+        "de": "Ein Crêpe aus dehydrierter Kartoffel, gefüllt mit flüssigem Vollei (ganzer Eidotter) und einem Hauch Trüffel oder Chistorra-Wurst. Dies ist ein rein individueller Genuss, der nicht geteilt werden darf. Die ganze Erfahrung entfaltet sich, wenn er in einem einzigen Bissen verzehrt wird: Ein magisches, überraschendes Erlebnis, das ein orgastisches Gefühl auslöst.",
+        "zh": "脱水土豆薄饼包裹着流动的全蛋黄，并带有一丝松露或西班牙红肠（chistorra）的触感。这份美味是独享的，不可分享。食用体验在于一口吞下：一次神奇、令人惊叹的旅程，带来令人欲罢不能的“高潮”般味觉享受。",
+        "ja": "乾燥ポテトのクレープで、中には丸ごとの液状卵黄が入っており、トリュフ、またはチストラ（チョリソー）のアクセントを添えました。シェア不可、一人占めの逸品です。この体験は、必ず一口でお召し上がりください。驚きと魔法に満ちた、まさにオーガズムのような感動的な感覚をもたらします。"
+      },
+      "images": [
+        "/assets/dishes/PintxoHuevo/pintxoHuevo1.webp",
+        "/assets/dishes/PintxoHuevo/pintxoHuevo2.webp",
+        "/assets/dishes/PintxoHuevo/pintxoHuevo1.webp"
+      ]
+    },
+    {
+      "id": "tortilla-de-patata-baby",
+      "name": "TORTILLA DE PATATA BABY",
+      "price": 5.5,
+      "desc": { 
+        "es": "Nuestra reconocida tortilla que se hace al momento al gusto del cliente. Con huevos de corral y patatas a dos temperaturas. Un toque de aceite de oliva durante el proceso le aporta cremosidad al resultado. ", 
+        "en": "Our renowned tortilla (Spanish omelette), prepared freshly and customized to the client's liking. Made with free-range eggs and potatoes fried at two temperatures. A touch of olive oil during the process ensures a creamy result.", 
+        "fr": "Notre célèbre tortilla (omelette espagnole), préparée minute et personnalisée au goût du client. Elle est élaborée avec des œufs de poules élevées en plein air et des pommes de terre frites à deux températures. Une touche d'huile d'olive durant la préparation lui apporte une onctuosité incomparable.", 
+        "de": "Unsere bekannte Tortilla (spanische Omelette), die frisch zubereitet und nach Wunsch des Gastes angepasst wird. Hergestellt aus Freiland-Eiern und bei zwei Temperaturen frittierten Kartoffeln. Ein Hauch Olivenöl während des Prozesses verleiht dem Ergebnis seine Cremigkeit.", 
+        "zh": "我们远近闻名的西班牙土豆鸡蛋饼 (tortilla)，现场制作并根据顾客的喜好定制。选用农家散养鸡蛋和双重温度油炸的土豆。制作过程中加入少许橄榄油，确保成品口感丝滑、浓郁。", 
+        "ja": "当店の名物であるトルティージャ（スペイン風オムレツ）は、お客様の好みに合わせて出来立てをご提供します。放し飼いの卵と、二段階の温度で揚げたジャガイモを使用。調理工程でオリーブオイルを少々加えることで、クリーミーな仕上がりを実現しています。" },
+      "images": [
+        "/assets/dishes/TortillaBaby/tortillaBaby-1.webp",
+        "/assets/dishes/TortillaBaby/tortillaBaby-2.webp",
+        "/assets/dishes/TortillaBaby/tortillaBaby-3.webp"
+      ]
+    },
+    {
+      "id": "croquetas-jamon-o-idiazabal-6",
+      "name": "CROQUETAS CREMOSAS DE JAMÓN O IDIAZABAL (6 UNDS)",
+      "price": 12.5,
+      "desc": { 
+        "es": "La auténtica croqueta casera. Cremosa por dentro y crujiente por fuera. Delicada y de dos bocados. ¡Espectaculares!", 
+        "en": "The authentic, homemade croquette. Creamy on the inside and perfectly crispy on the outside. Delicate and sized for just two bites. Spectacular!", 
+        "fr": "L'authentique croquette maison. Crémeuse à l'intérieur et croustillante à l'extérieur. Délicate et conçue pour deux bouchées. Spectaculaires !", 
+        "de": "Die authentische, hausgemachte Kroketten. Innen cremig und außen knusprig. Zart und genau richtig für zwei Bissen. Spektakulär!", 
+        "zh": "正宗的自制炸丸子。内里柔滑，外层酥脆。口感细腻，两口即可品尝。简直太棒了！", 
+        "ja": "本物の手作りコロッケ。中はクリーミーで、外は完璧にサクサク。繊細な味わいで、ちょうど二口サイズです。スペクタクル！" },
+      "images": [
+        "/assets/dishes/Croquetas/croquetas1.webp",
+        "/assets/dishes/Croquetas/croquetas2.webp",
+        "/assets/dishes/Croquetas/croquetas3.webp"
+      ]
+    },
+    {
+      "id": "empanada-casera",
+      "name": "EMPANADA CASERA",
+      "price": 5.5,
+      "desc": { 
+        "es": "Elaboramos diariamente empanadas totalmente caseras en casa con la receta tradicional de la empanada gallega. Pero le hacemos una ligera modificación, la hacemos con masa de hojaldre en lugar de masa de pan. Para así conseguir una empanada más fina al paladar.", 
+        "en": "We daily prepare completely homemade empanadas using the traditional Galician recipe. However, we make a slight modification: we use puff pastry instead of bread dough. This refinement gives the empanada a texture that is notably finer on the palate.", 
+        "fr": "Nous préparons quotidiennement des empanadas entièrement faites maison selon la recette traditionnelle galicienne. Nous apportons cependant une légère modification : nous utilisons de la pâte feuilletée au lieu de la pâte à pain. Cela nous permet d'obtenir une empanada plus fine et plus délicate en bouche.", 
+        "de": "Wir stellen täglich hausgemachte Empanadas nach dem traditionellen galicischen Rezept her. Wir nehmen jedoch eine leichte Abwandlung vor, indem wir Blätterteig anstelle von Brotteig verwenden. So erzielen wir eine Empanada, die am Gaumen feiner und leichter ist.", 
+        "zh": "我们每日在家中，采用传统的加利西亚馅饼（empanada gallega）食谱，制作完全自制的馅饼。但我们做了一个小小的改良：用酥皮代替面包面团。这样做是为了让馅饼在口感上更加精致细腻。", 
+        "ja": "ガリシア風エンパナーダの伝統的なレシピを用い、毎日完全に手作りのエンパナーダをご用意しています。ただし、パン生地の代わりにパイ生地を使用するという、軽いアレンジを加えています。これにより、口当たりがより繊細で上品なエンパナーダを実現しています。" },
+      "images": [
+        "/assets/dishes/Empanada/empanada-1.webp",
+        "/assets/dishes/Empanada/empanada-2.webp",
+        "/assets/dishes/Empanada/empanada-3.webp"
+      ]
+    },
+    {
+      "id": "huevos-de-corral-estrellados",
+      "name": "HUEVOS DE CORRAL ESTRELLADOS",
+      "price": 15.0,
+      "desc": { 
+        "es": "Huevos camperos de corral con patatas chips caseras y jamón ibérico 100% o cecina de león. ", 
+        "en": "Free-range eggs (from our farm) served with homemade potato chips, and your choice of 100% Iberian Ham or cured beef from León (Cecina de León).", 
+        "fr": "Œufs de poules élevées en plein air (de la ferme) accompagnés de chips de pommes de terre maison, et au choix : Jambon Ibérique 100% ou viande de bœuf séchée de León (Cecina de León).", 
+        "de": "Freiland-Eier (von unserem Hof) mit hausgemachten Kartoffelchips, wahlweise mit 100% Iberischem Schinken (Jamón Ibérico) oder getrocknetem Rindfleisch aus León (Cecina de León).", 
+        "zh": "农家散养鸡蛋，搭配手工制作的薯片，可选择：100%伊比利亚火腿或莱昂风干牛肉（Cecina de León）。", 
+        "ja": "放し飼いの新鮮な卵を使用。自家製ポテトチップスを添えて、100％イベリコ豚の生ハム、またはレオン産牛肉の燻製（セシーナ・デ・レオン）のどちらかをお選びいただけます。" },
+      "images": [
+        "/assets/dishes/HuevosEstrellados/huevosEstrellados-1.webp",
+        "/assets/dishes/HuevosEstrellados/huevosEstrellados-2.webp",
+        "/assets/dishes/HuevosEstrellados/huevosEstrellados-3.webp"
+      ]
+    },
+    {
+      "id": "pastel-de-txangurro",
+      "name": "PASTEL DE TXANGURRO",
+      "price": 14.0,
+      "desc": { 
+        "es": "", 
+        "en": "", 
+        "fr": "", 
+        "de": "", 
+        "zh": "", 
+        "ja": "" },
+      "images": [
+        "/assets/dishes/PastelTxangurro/pastelTxangurro-1.webp",
+        "/assets/dishes/PastelTxangurro/pastelTxangurro-2.webp",
+        "/assets/dishes/PastelTxangurro/pastelTxangurro-3.webp"
+      ]
+    },
+    {
+      "id": "mejillones-en-escabeche",
+      "name": "MEJILLONES EN ESCABECHE",
+      "price": 12.0,
+      "desc": { 
+        "es": "", 
+        "en": "", 
+        "fr": "", 
+        "de": "", 
+        "zh": "", 
+        "ja": "" },
+      "images": [
+        "/assets/dishes/MejillonesEscabeche/mejillones-1.webp",
+        "/assets/dishes/MejillonesEscabeche/mejillones-2.webp",
+        "/assets/dishes/MejillonesEscabeche/mejillones-3.webp"
+      ]
+    },
+    {
+      "id": "gilda-de-antxoas-y-boqueron",
+      "name": "GILDA DE ANTXOAS Y BOQUERON",
+      "price": 3.5,
+      "desc": { 
+        "es": "", 
+        "en": "", 
+        "fr": "", 
+        "de": "", 
+        "zh": "", 
+        "ja": "" },
+      "images": [
+        "/assets/dishes/Gilda/gilda-1.webp",
+        "/assets/dishes/Gilda/gilda-2.webp",
+        "/assets/dishes/Gilda/gilda-3.webp"
+      ]
+    },
+    {
+      "id": "huevo-trufado-especialidad",
+      "name": "HUEVO TRUFADO · ESPECIALIDAD",
+      "price": 16.5,
+      "desc": { 
+        "es": "Revuelto de huevos camperos de corral, elaborado con patatas paja fritas a dos temperaturas. A  140º para que expulsen el aceite y 190º para quedarnos con el 'crunch' de la patata. Se agrega un poco de trufa.", 
+        "en": "Scrambled free-range eggs, prepared with straw potatoes fried at two precise temperatures. First at 140 to expel the oil, and then at 190 to achieve the perfect 'crunch'. Finished with a hint of truffle.", 
+        "fr": "Œufs brouillés de poules élevées en plein air, élaborés avec des pommes de terre paille frites à deux températures. À 140 pour chasser l'huile, puis à 190 pour obtenir le « croustillant » parfait. L'ensemble est relevé d'une touche de truffe.", 
+        "de": "Rührei aus Freiland-Eiern, zubereitet mit Strohkartoffeln, die bei zwei Temperaturen frittiert wurden: bei 140, um das Öl auszustoßen, und bei 190 für den charakteristischen „Crunch“ der Kartoffel. Verfeinert mit einem Hauch Trüffel.", 
+        "zh": "农家散养鸡蛋炒蛋，搭配经双重温度油炸的细条薯丝：先以140逼出油脂，再以190炸至薯条酥脆**。最后加入少许松露点缀。**", 
+        "ja": "放し飼いの新鮮な卵を使ったスクランブルエッグ。このために、フライドポテト（ポテトパハ）を二段階の温度で揚げます。まず140で余分な油を排出し、190でポテトの「カリッと感」を引き出します。仕上げにトリュフを少量添えて。" },
+      "images": [
+        "/assets/dishes/Trufado/trufado1.webp",
+        "/assets/dishes/Trufado/trufado2.webp",
+        "/assets/dishes/Trufado/trufado3.webp"
+      ]
+    }
+  ],
+  
+  "postres": [
+  {
+    "id": "tarta-de-queso-famosa",
+    "name": "NUESTRA FAMOSA TARTA DE QUESO",
+    "price": 7.5,
+    "desc": { 
+      "es": "", 
+      "en": "We call it the 'Famous Cheesecake' because it won an award at the International Gourmet Fair in 2015. This is the authentic cheesecake: made without crust, jam, or any ingredient that could possibly mask its inherent quality and delicacy.", 
+      "fr": "Nous l'appelons le « célèbre gâteau au fromage » car il a remporté un prix au Salon international du Gourmet en 2015. C'est l'authentique cheesecake : sans biscuit, sans confiture ni aucun ingrédient susceptible de masquer sa qualité et sa délicatesse intrinsèques.", 
+      "de": "Wir nennen sie die „Berühmte Käsetorte“, weil sie 2015 auf der Internationalen Gourmet-Messe ausgezeichnet wurde. Dies ist die authentische Käsetorte: ohne Keksboden, Marmelade oder jegliche Zutat, die ihre Qualität und Zartheit verschleiern könnte.", 
+      "zh": "我们称之为“著名的芝士蛋糕”，因为它在2015年的国际美食展上荣获奖项。这是正宗的芝士蛋糕**：不含饼干底、果酱，以及任何可能掩盖其固有品质和精致口感的成分。**", 
+      "ja": "2015年に国際グルメ見本市で賞を受賞したため、「有名なチーズケーキ」と呼んでいます。これは本物のチーズケーキであり、クッキー生地、ジャム、その他品質と繊細さを覆い隠す可能性のある成分は一切使用していません。" },
+    "images": [
+      "/assets/dishes/_default/default-1.webp",
+      "/assets/dishes/_default/default-2.webp",
+      "/assets/dishes/_default/default-3.webp"
+    ]
+  },
+  {
+    "id": "coulant-de-brioche-valrhona",
+    "name": "COULANT DE BRIOCHE «VALRHONA»",
+    "price": 7.0,
+    "desc": { 
+      "es": "", 
+      "en": "", 
+      "fr": "", 
+      "de": "", 
+      "zh": "", 
+      "ja": "" },
+    "images": [
+      "/assets/dishes/_default/default-1.webp",
+      "/assets/dishes/_default/default-2.webp",
+      "/assets/dishes/_default/default-3.webp"
+    ]
+  },
+  {
+    "id": "torrija-de-brioche-caramelizada",
+    "name": "TORRIJA DE BRIOCHE CARAMELIZADA",
+    "price": 6.0,
+    "desc": { 
+      "es": "", 
+      "en": "", 
+      "fr": "", 
+      "de": "", 
+      "zh": "", 
+      "ja": "" },
+    "images": [
+      "/assets/dishes/_default/default-1.webp",
+      "/assets/dishes/_default/default-2.webp",
+      "/assets/dishes/_default/default-3.webp"
+    ]
+  },
+  {
+    "id": "tocinillo-de-cielo",
+    "name": "TOCINILLO DE CIELO",
+    "price": 6.0,
+    "desc": { 
+      "es": "El tocinillo del cielo es un postre elaborado a base de yema de huevo caramelizada y azúcar compacto de color amarillo intenso.", 
+      "en": "We call it the 'Famous Cheesecake' because it won an award at the International Gourmet Fair in 2015. This is the authentic cheesecake: made without crust, jam, or any ingredient that could possibly mask its inherent quality and delicacy.", 
+      "fr": "Nous l'appelons le « célèbre gâteau au fromage » car il a remporté un prix au Salon international du Gourmet en 2015. C'est l'authentique cheesecake : sans biscuit, sans confiture ni aucun ingrédient susceptible de masquer sa qualité et sa délicatesse intrinsèques.", 
+      "de": "Wir nennen sie die „Berühmte Käsetorte“, weil sie 2015 auf der Internationalen Gourmet-Messe ausgezeichnet wurde. Dies ist die authentische Käsetorte: ohne Keksboden, Marmelade oder jegliche Zutat, die ihre Qualität und Zartheit verschleiern könnte.", 
+      "zh": "我们称之为“著名的芝士蛋糕”，因为它在2015年的国际美食展上荣获奖项。这是正宗的芝士蛋糕**：不含饼干底、果酱，以及任何可能掩盖其固有品质和精致口感的成分。**", 
+      "ja": "2015年に国際グルメ見本市で賞を受賞したため、「有名なチーズケーキ」と呼んでいます。これは本物のチーズケーキであり、クッキー生地、ジャム、その他品質と繊細さを覆い隠す可能性のある成分は一切使用していません。" },
+    "images": [
+      "/assets/dishes/_default/default-1.webp",
+      "/assets/dishes/_default/default-2.webp",
+      "/assets/dishes/_default/default-3.webp"
+    ]
+  },
+  {
+    "id": "nota-postres-del-dia",
+    "type": "note",
+    "name": "«CONSULTA NUESTROS POSTRES DEL DÍA»"
+  }
+]
+
+}
