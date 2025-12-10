@@ -3,7 +3,7 @@ import React from "react";
 import { useTranslation } from "react-i18next";
 import menu from "../../data/menu.json";
 import DishRow, { type Dish } from "../../componentes/menu/DishRow";
-import DishDetail from "../../componentes/menu/DishDetail";
+import DishDetail from "../../componentes/menu/DishDetails";
 
 export default function Chacinas() {
   const { i18n, t } = useTranslation();
