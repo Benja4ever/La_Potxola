@@ -9,6 +9,22 @@ function getDesc(desc: Dish["desc"], lang: string): string {
   return desc[lang] ?? desc["es"] ?? Object.values(desc)[0] ?? "";
 }
 
+// 🔥 Función global para corregir rutas en Firebase + localhost
+function resolveSrc(src: string): string {
+  if (!src) return "";
+  if (src.startsWith("http")) return src;
+
+  // Asegurar barra inicial
+  const normalized = src.startsWith("/") ? src : `/${src}`;
+
+  // Usar dominio actual (localhost o firebase)
+  if (typeof window !== "undefined") {
+    return `${window.location.origin}${normalized}`;
+  }
+
+  return normalized;
+}
+
 export default function DishDetail({ item, lang, isOpen }: Props) {
   const contentRef = React.useRef<HTMLDivElement | null>(null);
   const [maxH, setMaxH] = React.useState(0);
@@ -43,7 +59,7 @@ export default function DishDetail({ item, lang, isOpen }: Props) {
         ref={contentRef}
         className="mt-4 flex flex-col md:flex-row md:items-stretch md:gap-6"
       >
-        {/* Descripción: izquierda (2/3) en md+, arriba en móvil */}
+        {/* Descripción (izquierda) */}
         <div className="md:w-2/3 self-center text-primary-1">
           {hasDesc ? (
             <p className="parrafo text-center leading-relaxed mx-auto max-w-prose">
@@ -54,22 +70,25 @@ export default function DishDetail({ item, lang, isOpen }: Props) {
           )}
         </div>
 
-        {/* Carrusel: derecha (1/3) en md+, abajo en móvil */}
+        {/* Carrusel (derecha) */}
         <div className="md:w-1/3 mt-4 md:mt-0">
           <div className="relative w-full aspect-square overflow-hidden rounded-md">
             {hasImgs ? (
-              imgs.map((src, i) => (
-                <img
-                  key={`${src}-${i}`}
-                  src={src}
-                  alt={`${item.name} ${i + 1}`}
-                  className={`absolute inset-0 h-full w-full object-cover transition-opacity duration-700 ${
-                    i === active ? "opacity-100" : "opacity-0"
-                  }`}
-                  loading={i === 0 ? "eager" : "lazy"}
-                  decoding="async"
-                />
-              ))
+              imgs.map((src, i) => {
+                const resolved = resolveSrc(src);
+                return (
+                  <img
+                    key={`${src}-${i}`}
+                    src={resolved}
+                    alt={`${item.name} ${i + 1}`}
+                    className={`absolute inset-0 h-full w-full object-cover transition-opacity duration-700 ${
+                      i === active ? "opacity-100" : "opacity-0"
+                    }`}
+                    loading={i === 0 ? "eager" : "lazy"}
+                    decoding="async"
+                  />
+                );
+              })
             ) : (
               <div className="absolute inset-0 flex items-center justify-center text-sm text-primary-1 parrafo">
                 Sin imágenes
