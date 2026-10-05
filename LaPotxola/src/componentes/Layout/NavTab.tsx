@@ -1,6 +1,7 @@
 // src/componentes/Layout/NavTab.tsx
 import React, { useEffect, useState } from "react";
 import { useTranslation } from "react-i18next";
+import { useNavigate } from "react-router-dom";
 
 type Item = { id: string; key: string };
 
@@ -15,6 +16,8 @@ const SECCIONES: Item[] = [
 
 export default function NavTab() {
   const { t } = useTranslation();
+  const navigate = useNavigate();
+
   const [active, setActive] = useState<string>("pintxos");
   const [openMobile, setOpenMobile] = useState(false);
 
@@ -44,36 +47,55 @@ export default function NavTab() {
     setOpenMobile(false);
   };
 
+  const cambiarIdioma = () => {
+    setOpenMobile(false);
+    navigate("/"); // HomeIdiomas
+  };
+
   return (
     <header className="sticky top-0 md:top-16 z-40 border-y border-neutral-300/40 bg-secondary-1 backdrop-blur">
       {/* ====== Mobile Topbar (visible < md) ====== */}
-      <div className="mx-auto w-full px-4 py-2 md:hidden relative">
-        {/* Logo centrado */}
-        <div className="absolute left-1/2 -translate-x-1/2 top-1/2 -translate-y-1/2 pointer-events-none">
-          <img
-            src="https://www.lapotxolataberna.com/wp-content/uploads/potxola-green.svg"
-            alt="La Potxola"
-            className="h-8 w-auto"
-            draggable={false}
-          />
-        </div>
+      <div className="mx-auto w-full px-4 py-2 md:hidden">
+        <div className="flex items-center justify-between">
+          {/* Spacer izquierda para mantener logo centrado */}
+          <div className="w-10" />
 
-        {/* Hamburger a la derecha */}
-        <div className="flex justify-end">
+          {/* Logo centrado */}
+          <div className="flex-1 flex justify-center">
+            <img
+              src="https://www.lapotxolataberna.com/wp-content/uploads/potxola-green.svg"
+              alt="La Potxola"
+              className="h-8 w-auto"
+              draggable={false}
+            />
+          </div>
+
+          {/* Hamburger a la derecha */}
           <button
             aria-label={openMobile ? "Cerrar menú" : "Abrir menú"}
             onClick={() => setOpenMobile((v) => !v)}
             className="inline-flex items-center justify-center rounded-full p-2 hover:bg-black/10 transition"
           >
-            {/* Ícono hamburguesa / cerrar (svg simple) */}
             {openMobile ? (
-              <svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6"
-                   viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                className="h-6 w-6"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                strokeWidth="2"
+              >
                 <path d="M18 6L6 18M6 6l12 12" />
               </svg>
             ) : (
-              <svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6"
-                   viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                className="h-6 w-6"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                strokeWidth="2"
+              >
                 <path d="M3 6h18M3 12h18M3 18h18" />
               </svg>
             )}
@@ -98,6 +120,18 @@ export default function NavTab() {
                   </button>
                 </li>
               ))}
+
+              {/* Separador + Cambiar idioma */}
+              <li className="my-1 border-t border-neutral-300/50" />
+
+              <li>
+                <button
+                  onClick={cambiarIdioma}
+                  className="w-full text-left px-4 py-3 transition hover:bg-black/10 text-neutral-800 font-semibold"
+                >
+                  CAMBIAR IDIOMA
+                </button>
+              </li>
             </ul>
           </div>
         )}

@@ -12,9 +12,9 @@
         "zh": "轻微慢煮的章鱼腿，搭配丝滑的巴门蒂尔（土豆泥）底座，点缀上少许红椒粉、阿尼亚纳海盐和优质橄榄油。 (Qīngwēi mànzhǔ de zhāngyú tuǐ, dāpèi sīhuá de bāmén dì ěr (tǔdòu ní) dǐzuò, diǎnzhuì shàng shǎoxǔ hóngjiāo fěn, Āníyǎnà hǎiyán hé yōuzhì gǎnlǎn yóu.)", 
         "ja": "軽く火入れしたタコの足。パルマンティエ（ポテトピュレ）の上に盛り付け、パプリカ、アニャーナの塩、オリーブオイルのアクセントを添えました。 (Karuku hiire shita tako no ashi. Parumantie (poteto pyurē) no ue ni moritsuke, papurika, Anyāna no shio, orību oiru no akusento o soemashita.)" },
       "images": [
-        "/_default/default-1.webp",
-        "/_default/default-2.webp",
-        "/_default/default-3.webp"
+        "/Pulpo/pulpo1.webp",
+        "/Pulpo/pulpo2.webp",
+        "/Pulpo/pulpo3.webp"
       ]
     },
     {
@@ -65,9 +65,9 @@
         "zh": "这道来自MOTRIKO的家族秘方，由祖母们代代相传。它正是毕加索在MOTRIKO-GUIPUZCOA曾祖母的餐厅度假时，享用过的墨鱼仔 (chipirones) 的相同食谱。炖菜的基底由什锦蔬菜和少许墨鱼汁制成。搭配白米饭。", 
         "ja": "モトリコ (MOTRIKO) に住む祖母たちの、大切な家族のレシピです。これは、ピカソがモトリコ・ギプスコアの曾祖母のホテル・レストランで夏を過ごした際に食した、イカ（チピロネス）と全く同じものです。この煮込み料理のベースは、様々な野菜とイカ墨のタッチでできています。白米を添えて提供いたします" },
       "images": [
-        "/_default/default-1.webp",
-        "/_default/default-2.webp",
-        "/_default/default-3.webp"
+        "/Txipirones/txipirones1.webp",
+        "/Txipirones/txipirones2.webp",
+        "/Txipirones/txipirones3.webp"
       ]
     },
     {
@@ -107,9 +107,9 @@
         "zh": "为确保番茄拥有纯正风味，我们将其切成花朵状（可将风味提升100%的切割法）。果肉用盐和醋调味后，静置使其“流泪”释放汁液。最后在餐桌旁淋上DOMINUS**，这款MANCHARREAL产区获奖最多的橄榄油。**", 
         "ja": "トマト本来の味を保証するため、「花」のようにカットします（風味を100%高めるカット法）。果肉に塩と酢で味付けし、「泣かせて」果汁を放出させます。仕上げはテーブルでDOMINUSオイル（MANCHARREAL D.O.の最も受賞歴のあるオイル）を添えて" },
       "images": [
-        "/_default/default-1.webp",
-        "/_default/default-2.webp",
-        "/_default/default-3.webp"
+        "/Tomate/tomate1.webp",
+        "/Tomate/tomate2.webp",
+        "/Tomate/tomate3.webp"
       ]
     },
     {
@@ -141,9 +141,9 @@
         "zh": "我们的俄式沙拉（Ensaladilla Rusa）是经典菜式的美食家版本**。由土豆、胡萝卜和豌豆构成的基底，与我们100%手工制作的蛋黄酱完美融合。点缀煮鸡蛋和精致的金枪鱼腩（Ventresca de Atún），带来无与伦比的细腻口感。这是一款柔滑而优雅的菜肴。**", 
         "ja": "当店のロシアンサラダ（Ensaladilla Rusa）は、クラシックな料理のグルメ版です。ジャガイモ、ニンジン、茹でたエンドウ豆のベースに、100％手作りのマヨネーズを合わせます。茹で卵と、この上ない繊細さを加える極上のマグロの腹身（Ventresca de Atún）を添えてご提供。クリーミーでエレガントな一皿です。" },
       "images": [
-        "/_default/default-1.webp",
-        "/_default/default-2.webp",
-        "/_default/default-3.webp"
+        "/Ensaladilla/ensaladilla1.webp",
+        "/Ensaladilla/ensaladilla2.webp",
+        "/Ensaladilla/ensaladilla3.webp"
       ]
     },
     {
@@ -175,9 +175,9 @@
         "zh": "我们挑选最优质、最正宗的纳瓦拉芦笋。它们拥有原产地命名（D.O.）认证标志，以确保其风味、口感以及我们这片土地上芦笋特有的柔嫩度。", 
         "ja": "ナバーラ産の最もオーセンティックなアスパラガスを厳選しています。品質を保証する原産地呼称（D.O.）の認証マークがあり、その風味、食感、そしてこの地のアスパラガス特有の滑らかさを証明しています。" },
       "images": [
-        "/_default/default-1.webp",
-        "/_default/default-2.webp",
-        "/_default/default-3.webp"
+        "/Esparragos/esparragos1.webp",
+        "/Esparragos/esparragos2.webp",
+        "/Esparragos/esparragos3.webp"
       ]
     }
   ],
@@ -195,9 +195,9 @@
         "zh": "兔排（Txuletitas de Conejo）—田园零食。我们将这道菜命名为“田园零食”，因为它具有令人上瘾的特性，非常适合用手分享。我们选择最嫩的兔排，精心腌制并油炸至酥脆。配以自制薯条作为底衬。这是一种传统且无与伦比的小吃。", 
         "ja": "仔ウサギの骨付き肉（Txuletitas）— 田舎の軽食。中毒性のある性質から、手でつまんでシェアするのに最適なこの料理を「田舎の軽食」と名付けました。最も柔らかいウサギのあばら肉を選び、丁寧にマリネして、非常にサクサクとした食感になるまで揚げます。自家製ポテトパハ（細切りポテト）の上にのせてご提供します。他に類を見ない伝統的なスナックです。" },
       "images": [
-        "/_default/default-1.webp",
-        "/_default/default-2.webp",
-        "/_default/default-3.webp"
+        "/TxuletaConejo/conejo1.webp",
+        "/TxuletaConejo/conejo2.webp",
+        "/TxuletaConejo/conejo3.webp"
       ]
     },
     {
@@ -212,9 +212,9 @@
         "zh": "这是一款传统的家族食谱，采用顶级牛肚（callos），配以牛/猪鼻和蹄，以获得理想的胶质口感，并搭配柔和的比斯开（Bizkaina）酱汁。当然，少不了辣椒 (guindilla) 带来的愉悦与活力。", 
         "ja": "伝統的な家族のレシピ。上質なトリッパ（牛モツ）に鼻と足を加え、とろけるようなゼラチン質の食感を引き出し、まろやかなビスカイナ（Bizkaina）ソースで仕上げました。料理に活気を与えるギンディージャ（唐辛子）の存在も忘れてはいません。" },
       "images": [
-        "/_default/default-1.webp",
-        "/_default/default-2.webp",
-        "/_default/default-3.webp"
+        "/Callos/callos1.webp",
+        "/Callos/callos2.webp",
+        "/Callos/callos3.webp"
       ]
     },
     {
@@ -280,9 +280,9 @@
         "zh": "按照 Amatxu（巴斯克语中的“母亲”）烹饪野鸡的方式制作的散养童子鸡 (Coquelette)。这种美味不会让您的味蕾感到平淡。搭配自制薯片。", 
         "ja": "Amatxu（バスク語で「お母さん」）がキジを調理した方法で仕上げた若鶏（コクレ）。決して無関心ではいられない、まさに舌を喜ばせる逸品です。自家製ポテトチップスを添えて。" },
       "images": [
-        "/_default/default-1.webp",
-        "/_default/default-2.webp",
-        "/_default/default-3.webp"
+        "/Picanton/picanton1.webp",
+        "/Picanton/picanton2.webp",
+        "/Picanton/picanton3.webp"
       ]
     },
     {
@@ -329,16 +329,16 @@
       "name": "TABLA DE QUESOS «SELECCIÓN DE LA SEMANA»",
       "price": 18.5,
       "desc": { 
-        "es": "", 
-        "en": "", 
-        "fr": "", 
-        "de": "", 
-        "zh": "", 
-        "ja": "" },
+        "es": "Nuestra Tabla de Quesos es una selección de piezas artesanas cuidadosamente elegidas por su procedencia y calidad. Ofrecemos un recorrido por diferentes texturas e intensidades, desde la suavidad de los quesos jóvenes hasta el carácter persistente de los más curados. Se sirve siempre con picos de pan y se acompaña de una selección de frutos secos o frutas que varían según la temporada.", 
+        "en": "Our Cheese Board (Tabla de Quesos) is a curated selection of artisan pieces chosen for their origin and quality. We offer a journey through various textures and intensities, from the mildness of young cheeses to the persistent character of the more cured ones. It is always served with breadsticks (picos) and accompanied by a selection of nuts or fruits that vary according to the season.", 
+        "fr": "Notre Assiette de Fromages est une sélection de pièces artisanales soigneusement choisies pour leur provenance et leur qualité. Nous proposons un voyage à travers différentes textures et intensités, de la douceur des fromages jeunes au caractère persistant des plus affinés. Elle est toujours servie avec des petits pains croquants (picos) et accompagnée d'une sélection de fruits secs ou de fruits qui varient selon la saison.", 
+        "de": "Unsere Käseplatte (Tabla de Quesos) ist eine Auswahl an handwerklich hergestellten Sorten, die sorgfältig nach Herkunft und Qualität ausgewählt wurden. Wir bieten eine Reise durch verschiedene Texturen und Intensitäten, von der Milde junger Käse bis zum anhaltenden Charakter der gereiften Sorten. Sie wird stets mit Brotstangen (picos) serviert und von einer jahreszeitlich wechselnden Auswahl an Nüssen oder Früchten begleitet.", 
+        "zh": "我们的奶酪拼盘（Tabla de Quesos）是根据产地和品质精心挑选的手工匠心之作。我们提供从温和的新鲜奶酪到风味持久的陈年奶酪等多种质地与浓郁度的体验。拼盘始终搭配面包棒（picos），并伴有随季节变化的精选坚果或水果。", 
+        "ja": "当店のチーズ盛り合わせ（Tabla de Quesos）は、産地と品質にこだわり、丁寧に選ばれた職人仕立てのセレクションです。若いチーズのまろやかさから、熟成されたチーズの深みのある味わいまで、様々な食感と風味をお楽しみいただけます。常にパンのピコス（picos）を添え、季節ごとに変わる厳選されたナッツやフルーツとともにご提供いたします。" },
       "images": [
-        "/_default/default-1.webp",
-        "/_default/default-2.webp",
-        "/_default/default-3.webp"
+        "/TablaQueso/tablaQuesos1.webp",
+        "/TablaQueso/tablaQuesos2.webp",
+        "/TablaQueso/tablaQuesos3.webp"
       ]
     },
     {
@@ -372,9 +372,9 @@
         "zh": "我们的伊比利亚肉类拼盘（Tabla de Ibéricos）是精选中的精选。主角是来自SEÑORÍO DE MONTANERA（埃斯特雷马杜拉）的100%纯种伊比利亚火腿肩肉，其品质、口感和风味独一无二。这款珍品搭配了精心挑选的腌制肉，包括莱昂的西班牙香肠（Salchichón）和辣香肠（Chorizo），以及偶尔供应的我们著名的莱昂风干牛肉（Cecina）。从头到尾的完美伊比利亚体验。", 
         "ja": "当店のイベリコ盛り合わせ（Tabla de Ibéricos）は、まさに極上のセレクションです。主役は、品質、食感、風味が他に類を見ない、SEÑORÍO DE MONTANERA（エストレマドゥーラ）産の100％純粋なイベリコ豚のショルダーハムです。この逸品には、レオン産のサルチチョン（サラミ）やチョリソなど、厳選された肉加工品、そして時折、当店の誇るレオン産セシーナ（牛肉の燻製）が添えられます。最初から最後まで完璧なイベリコ体験です。" },
       "images": [
-        "/_default/default-1.webp",
-        "/_default/default-2.webp",
-        "/_default/default-3.webp"
+        "/TablaIbericos/ibericos1.webp",
+        "/TablaIbericos/ibericos2.webp",
+        "/TablaIbericos/ibericos3.webp"
       ]
     }
   ],
@@ -395,7 +395,7 @@
       "images": [
         "/PintxoHuevo/pintxoHuevo1.webp",
         "/PintxoHuevo/pintxoHuevo2.webp",
-        "/PintxoHuevo/pintxoHuevo1.webp"
+        "/PintxoHuevo/pintxoHuevo3.webp"
       ]
     },
     {
@@ -410,9 +410,9 @@
         "zh": "我们远近闻名的西班牙土豆鸡蛋饼 (tortilla)，现场制作并根据顾客的喜好定制。选用农家散养鸡蛋和双重温度油炸的土豆。制作过程中加入少许橄榄油，确保成品口感丝滑、浓郁。", 
         "ja": "当店の名物であるトルティージャ（スペイン風オムレツ）は、お客様の好みに合わせて出来立てをご提供します。放し飼いの卵と、二段階の温度で揚げたジャガイモを使用。調理工程でオリーブオイルを少々加えることで、クリーミーな仕上がりを実現しています。" },
       "images": [
-        "/TortillaBaby/tortillaBaby-1.webp",
-        "/TortillaBaby/tortillaBaby-2.webp",
-        "/TortillaBaby/tortillaBaby-3.webp"
+        "/TortillaBaby/baby1.webp",
+        "/TortillaBaby/baby2.webp",
+        "/TortillaBaby/baby3.webp"
       ]
     },
     {
@@ -444,9 +444,9 @@
         "zh": "我们每日在家中，采用传统的加利西亚馅饼（empanada gallega）食谱，制作完全自制的馅饼。但我们做了一个小小的改良：用酥皮代替面包面团。这样做是为了让馅饼在口感上更加精致细腻。", 
         "ja": "ガリシア風エンパナーダの伝統的なレシピを用い、毎日完全に手作りのエンパナーダをご用意しています。ただし、パン生地の代わりにパイ生地を使用するという、軽いアレンジを加えています。これにより、口当たりがより繊細で上品なエンパナーダを実現しています。" },
       "images": [
-        "/Empanada/empanada-1.webp",
-        "/Empanada/empanada-2.webp",
-        "/Empanada/empanada-3.webp"
+        "/Empanada/empanada1.webp",
+        "/Empanada/empanada2.webp",
+        "/Empanada/empanada3.webp"
       ]
     },
     {
@@ -461,9 +461,9 @@
         "zh": "农家散养鸡蛋碎（Huevos Estrellados）。我们选用蛋黄颜色浓郁的散养鸡蛋，搭配新鲜制作的自制薯片。再以高贵的100%伊比利亚火腿或精选的莱昂风干牛肉（Cecina de León）点缀。流淌的蛋黄与薯片的酥脆融合：一种传统且无与伦比的美味享受。", 
         "ja": "放し飼い卵のエストレジャード（Huevos Estrellados）。濃厚な色合いの卵黄を持つ新鮮な卵を、出来立ての自家製ポテトチップスの上にのせてご提供します。100％イベリコ豚の生ハム、または厳選されたレオン産牛肉の燻製（セシーナ・デ・レオン）のどちらかをトッピング。とろける卵黄とポテトのカリカリとした食感が混ざり合う、比類なき伝統的な美味しさです。" },
       "images": [
-        "/HuevosEstrellados/huevosEstrellados-1.webp",
-        "/HuevosEstrellados/huevosEstrellados-2.webp",
-        "/HuevosEstrellados/huevosEstrellados-3.webp"
+        "/HuevosCorral/huevos1.webp",
+        "/HuevosCorral/huevos2.webp",
+        "/HuevosCorral/huevos3.webp"
       ]
     },
     {
@@ -478,9 +478,9 @@
         "zh": "我们取出整只西班牙蜘蛛蟹（txangurro 或 cabracho）的蟹肉。根据我们曾姑母 Begoña 的传统食谱，制作出精美且口感柔滑的蟹肉糕。它非常适合搭配我们自家烘焙的芳香烤面包片，带来完美的品尝体验。", 
         "ja": "タラバガニまたはカブラチョ（クモガニ）の身を全てほぐします。大叔母ベゴーニャの伝統的なレシピに基づき、絶妙でクリーミーなパステル（ケーキ）に仕上げました。ご自宅で焼き上げたアロマ付きトーストと一緒に、完璧な味わいをお楽しみください。" },
       "images": [
-        "/PastelTxangurro/pastelTxangurro-1.webp",
-        "/PastelTxangurro/pastelTxangurro-2.webp",
-        "/PastelTxangurro/pastelTxangurro-3.webp"
+        "/PastelTxangurro/pastel1.webp",
+        "/PastelTxangurro/pastel2.webp",
+        "/PastelTxangurro/pastel3.webp"
       ]
     },
     {
@@ -495,9 +495,9 @@
         "zh": "醋汁腌制贻贝 (Mejillones en Escabeche). 我们非凡的贻贝口感细腻、风味浓郁，以精致优雅的醋汁腌制而成。我们将它们放在一层酥脆的自制薯片上，精心制作，以营造出无与伦比的酥脆感。", 
         "ja": "エスカベチェのムール貝（Mejillones en Escabeche）。当店の特別なムール貝は、繊細で風味豊か。上品でエレガントなエスカベチェ（マリネ液）で仕上げています。これらを、比類のないカリッと感を生み出すために丁寧に手作りした、自家製ポテトチップスの上にのせてご提供します。" },
       "images": [
-        "/MejillonesEscabeche/mejillones-1.webp",
-        "/MejillonesEscabeche/mejillones-2.webp",
-        "/MejillonesEscabeche/mejillones-3.webp"
+        "/Mejillones/mejillones1.webp",
+        "/Mejillones/mejillones2.webp",
+        "/Mejillones/mejillones3.webp"
       ]
     },
     {
@@ -512,9 +512,9 @@
         "zh": "吉尔达 (La Gilda)。巴斯克地区最具代表性的 pintxo（小吃）。这是一个传奇般的美味：酸、咸、微辣，由橄榄、piparra（巴斯克小辣椒）和精致的 antxoa（凤尾鱼）或腌制鳀鱼完美组合而成。一口即达理想的风味平衡。", 
         "ja": "ラ・ギルダ（La Gilda）。バスク地方で最も象徴的なピンチョス（pintxo）。オリーブ、ピパラ（バスクの唐辛子）、そして繊細なアンチョア（アンチョビ）またはボケロン（酢漬けイワシ）の完璧な組み合わせで構成された、酸味、塩味、そしてわずかな辛さが特徴の伝説的な一口料理です。一口で味わう理想的な風味のバランスです。" },
       "images": [
-        "/Gilda/gilda-1.webp",
-        "/Gilda/gilda-2.webp",
-        "/Gilda/gilda-3.webp"
+        "/Gildas/gilda1.webp",
+        "/Gildas/gilda2.webp",
+        "/Gildas/gilda3.webp"
       ]
     },
     {
@@ -549,9 +549,9 @@
       "zh": "我们称它为“著名的芝士蛋糕”，因为它在2015年国际美食展上荣获奖项。这是正宗的芝士蛋糕：不含饼干底、果酱或任何可能掩盖其品质和精致口感的添加剂。它深受大众喜爱，人们常对我们说：“这是我一生中吃过的最好的芝士蛋糕！", 
       "ja": "2015年に国際グルメ見本市で受賞したため、「有名なチーズケーキ」と呼んでいます。これは、クッキー生地、ジャム、またはその品質と繊細さを覆い隠す可能性のある添加物を一切使用しない、本物のチーズケーキです。多くの方に愛され、「今まで食べた中で最高のチーズケーキです！」とよく言われます。" },
     "images": [
-      "/_default/default-1.webp",
-      "/_default/default-2.webp",
-      "/_default/default-3.webp"
+      "/TartaQueso/tarta1.webp",
+      "/TartaQueso/tarta2.webp",
+      "/TartaQueso/tarta3.webp"
     ]
   },
   {
@@ -566,9 +566,9 @@
       "zh": "我们的布里欧修流心蛋糕（Coulant de Brioche）是极致的美味。它采用法芙娜 (Valrhona)——世界上最好的巧克力之一——以70%可可含量制作，保证了流心的熔岩内馅和极致柔滑的口感。一道不会让您感到平淡的甜点。", 
       "ja": "当店のブリオッシュ・クーラン（フォンダンショコラ）は、完全な美味しさです。世界最高のチョコレートの一つであるヴァローナ（Valrhona）を使用し、カカオ70％で、とろけるような、極上のクリーミーな中心部を保証します。このデザートは、きっとあなたを虜にするでしょう。" },
     "images": [
-      "/_default/default-1.webp",
-      "/_default/default-2.webp",
-      "/_default/default-3.webp"
+      "/Coulant/coulant1.webp",
+      "/Coulant/coulant2.webp",
+      "/Coulant/coulant3.webp"
     ]
   },
   {
@@ -583,9 +583,9 @@
       "zh": "布里欧修西班牙吐司 (Torrija de Brioche)。这是我们曾祖母的食谱，源自巴黎。我们将布里欧修浸入英式奶油中乳化24小时并冷藏。避开油炸，我们将吐司在低温下回温，并在顾客点餐时立即焦糖化，以形成一层酥脆、晶莹的脆皮。这种质感的融合将带您进入极致的美味。", 
       "ja": "ブリオッシュのトリーハ（Torrija de Brioche）。パリ出身の曽祖母のレシピです。ブリオッシュをアングレーズソースに24時間かけて乳化させ、冷蔵します。揚げる工程を避け、トリーハを低温で温め、注文を受けてからキャラメリゼすることで、カリッと結晶化した層を作り上げます。食感の感覚があなたを至福へと導きます。" },
     "images": [
-      "/_default/default-1.webp",
-      "/_default/default-2.webp",
-      "/_default/default-3.webp"
+      "/Torrija/torrija1.webp",
+      "/Torrija/torrija2.webp",
+      "/Torrija/torrija3.webp"
     ]
   },
   {
@@ -600,9 +600,9 @@
       "zh": "天堂的培根（Tocino de Cielo）。这款传统甜点的名字与其口感完美呼应。它以蛋黄和糖为基础制作，成品口感浓郁、入口即化，并带有标志性的深黄色。我们搭配一层美味酥脆的液态焦糖酱一同呈上。", 
       "ja": "20トシーノ・デ・シエロ（「天国のベーコン」）。その名前が食感を物語る伝統的なデザートです。卵黄と砂糖をベースに作られ、濃密でとろけるような口当たりと、特徴的な濃い黄色の仕上がりになります。美味しく、パリッとした食感の液状キャラメルをかけてご提供します。。" },
     "images": [
-      "/_default/default-1.webp",
-      "/_default/default-2.webp",
-      "/_default/default-3.webp"
+      "/Tocinillo/tocinillo1.webp",
+      "/Tocinillo/tocinillo2.webp",
+      "/Tocinillo/tocinillo3.webp"
     ]
   },
   {
